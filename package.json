@@ -1,0 +1,17 @@
+{
+  "name": "kanji-submission",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:h0tw4t3r/kanji-submission.git",
+  "author": "Vladyslav <vlad.dalechin@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest encryptDecrypt.test.js"
+  },
+  "devDependencies": {
+    "jest": "^29.1.2"
+  },
+  "dependencies": {
+    "ethers": "^5.7.1"
+  }
+}
